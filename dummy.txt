@@ -1,0 +1,11 @@
+username =hjsbdvhs
+password = jbdfd23
+aws_secret_key = jdfb342
+key = 4378
+aws_account = ksjdnj8745938
+aws_account = 1234-1234-1234
+key = +dcjnkwkmksmckmdknsnkjscnsjcio787ne2_jcwbckmcjkdnvjkn
+password=jsbs281@97
+JDBC_Connection = jdbc:postgresql://localhost:5432/dhis2
+connection.username = dhis
+connection.password = dhis
